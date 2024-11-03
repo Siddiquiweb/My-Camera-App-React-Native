@@ -1,4 +1,5 @@
 MyCamera 📷
+
 MyCamera is a simple camera application built with React Native and Expo. This app allows users to capture photos with the device's camera, toggle between front and back cameras, and control the flash. Additionally, it includes a custom splash screen for a smooth user experience.
 
 Features
